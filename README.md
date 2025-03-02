@@ -26,8 +26,7 @@ Developed classification models to predict subscriber churn and applied clusteri
 * Recommended personalized marketing strategies, such as re-engagement emails for low-frequency users.
 * Insights enable AZWatch to optimize retention efforts and improve targeted campaigns.
 
-
-
+***
 
 ## Customer Churn Prediction & Retention Strategies
 ### Tools & Technologies:
