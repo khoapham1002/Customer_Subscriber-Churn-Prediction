@@ -3,7 +3,7 @@
 Python, Pandas, Scikit-Learn, Logistic Regression, Decision Tree, Random Forest, K-Means Clustering, Matplotlib, Seaborn
 
 ### Project Overview:
-Developed classification models to predict subscriber churn and applied clustering analysis to segment users for AZ Watch, an educational streaming platform.
+Developed classification models to predict subscriber churn and applied clustering analysis to segment users for AZWatch, an educational streaming platform.
 
 * Trained Logistic Regression, Decision Tree, and Random Forest models, achieving 92.5% accuracy for churn prediction.
 * Applied K-Means clustering (k=3) to segment subscribers based on engagement behavior.
@@ -24,7 +24,7 @@ Developed classification models to predict subscriber churn and applied clusteri
 ### Impact & Insights:
 * Discovered that subscribers with high engagement frequency are less likely to churn.
 * Recommended personalized marketing strategies, such as re-engagement emails for low-frequency users.
-* Insights enable AZ Watch to optimize retention efforts and improve targeted campaigns.
+* Insights enable AZWatch to optimize retention efforts and improve targeted campaigns.
 
 
 
